@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-**👨 My name is Sudarson Halder just done with my 12th grade this year.**  <br>
+**👨 My name is Sudarson Halder pursuing Bachelor of Science in Information Technology.**  <br>
 **📍 I live in Mumbai,India.**  <br>
 **💻 Currently learning frontend developement using technologies mentioned belowed.**  <br>
 **⚒️ Have built multiple frontend projects,check out my repositories.**  <br>
