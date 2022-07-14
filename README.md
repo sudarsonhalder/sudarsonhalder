@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/sudarsonhalder/">
-   <img align="left" alt="sudarsonhalder | Linkedin" width="24px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+   <img align="left" alt="sudarsonhalder | Linkedin" width="24px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657822584~hmac=8fa56335683832136053e3f3938247bd" />
   </a>
   <a href="mailto:sudarsonhalder31@gmail.com">
-    <img align="left" alt="sudarsonhalder | Gmail" width="26px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+    <img align="left" alt="sudarsonhalder | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
   </a>
   <a href="https://twitter.com/SudarsonHalder">
-    <img align="left" alt="sudarsonhalder | Twitter" width="26px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+    <img align="left" alt="sudarsonhalder | Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
   </a>
   <a href="https://www.instagram.com/mr.halder/">
-    <img align="left" alt="sudarsonhalder | Instagram" width="24px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+    <img align="left" alt="sudarsonhalder | Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
   </a>
 <br>
 <br>
